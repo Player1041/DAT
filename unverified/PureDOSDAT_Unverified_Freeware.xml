@@ -709,6 +709,7 @@
 		<year>2003</year>
 		<developer>Chris Allen</developer>
 		<comment>Comes with a file, NIB.CFG, for in-game options but not required to run, will create after editing an option.</comment>
+		<link type="media">https://puredos.github.io/tdc-browser/?/23/Nibbler+(2003)(Chris+Allen)+%5BAction%5D</link>
 		<rom name="BG.ART" size="74782" crc="e36ac4a4" md5="04d71ab6658b65a3ab51dc001915ba29" sha1="8fcdfcb0fd3bb07e481336a7642fd9155eea569d"/>
 		<rom name="BOSS1.ART" size="9961" crc="053eee78" md5="372a0ba24c0009f4498196e6f3944bb0" sha1="02f9405184874217e8bc82cd3d278dbfecb8da04"/>
 		<rom name="CUTSCENE.ART" size="59210" crc="2e76abc9" md5="4112a3a5145aa685d286bcd38b4aca41" sha1="0aed3906f7ccc089f779b2fada135303b0719d8a"/>
