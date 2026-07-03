@@ -704,7 +704,7 @@
 		<rom name="symbols" size="17392" crc="85897b39" md5="369a624623b9501c4510de2c787e821d" sha1="49e051ef4939d3a862e57a86edcdba047e292ba2" date="2023-02-15 13:58:52"/>
 		<rom name="sysconf" size="3780" crc="6d25eeb2" md5="3a6dbb6257d4d915241b6b96e52e9cfa" sha1="4ea24c41271fd7bc7461b38acb46ee0cf26360ae" date="2023-02-15 13:58:52"/>
 	</game>
-	<game name="Nibbler (2003) (Chris Allen) [Action].dosz">
+	<game name="Nibbler (2003) (Chris Allen).dosz">
 		<description>Nibbler</description>
 		<year>2003</year>
 		<developer>Chris Allen</developer>
